@@ -2,15 +2,14 @@
 
 A new Flutter project.
 
-## Getting Started
+# Perhitungan Sederhana Operator Aritmatika
 
-This project is a starting point for a Flutter application.
+- Tambah - 
+- Kurang 
+- Bagi 
+- Kali
 
-A few resources to get you started if this is your first Flutter project:
+##Screen Layar
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot](https://user-images.githubusercontent.com/73401869/229363152-caf9fcc7-7baf-4716-b358-942adcfb1006.PNG)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
